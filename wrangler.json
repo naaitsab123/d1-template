@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f75f843b-6ab4-46fe-ac0f-d90566004934",
+			"database_name": "atlas-commons-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
